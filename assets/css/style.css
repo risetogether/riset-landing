@@ -546,6 +546,7 @@ transition:0.3s;
 
 @media only screen and (max-width:880px) { 
 .about-img img{margin-top:60px;}
+.about_btn {margin-top: 30px; margin-bottom: 30px;}
 }
 .about-text{}
 .about-text h2 {
@@ -555,6 +556,7 @@ transition:0.3s;
 }
 @media only screen and (max-width:480px) { 
 .about-text h2 {font-size: 40px;}
+.about_btn {margin-top: 30px; margin-bottom: 30px;}
 }
 .about-text p{margin-bottom:20px}
 .about_btn {margin-top: 30px;}
