@@ -416,7 +416,7 @@ border:2px solid #fff;
 
 
 .home_bg_img {
-	background-image: url(../img/bg/riset-hero.jpg);  
+	background-image: url(../img/riset-hero.jpg);  
 	background-size:cover; 
 	background-position: center center;
 }
@@ -924,7 +924,7 @@ margin-bottom: 60px;
 */
 .market_value_area {
 	position: relative;
-	background: url(../img/bg/market_value.jpg) no-repeat;
+	background: url(../img/riset-hero.jpg) no-repeat;
 	background-size: cover;
 	padding:150px 0;
 }
