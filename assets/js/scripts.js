@@ -45,9 +45,9 @@ Version      : 1.0
 		/*END COUNUDOWN JS*/			
 		
 		/*START VIDEO JS*/
-		$('.video-play').magnificPopup({
-            type: 'iframe'
-        });
+		// $('.video-play').magnificPopup({
+        //     type: 'iframe'
+        // });
 		/*END VIDEO JS*/		
 		
 		/* START COUNTDOWN JS*/
