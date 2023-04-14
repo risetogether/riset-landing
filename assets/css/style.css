@@ -1968,6 +1968,7 @@ display: inline-block;
 .f_twitter{background:#1A90D9;}
 .f_instagram{background:#bc2a8d;}
 .f_linkedin{background:#0e76a8;}
+.f_telegram{background:#0e76a8;}
 
 .newsletter-form{padding-top:160px;}
 @media only screen and (max-width:768px) { 
@@ -2034,6 +2035,10 @@ color:#fff;
 .f_twitter{background:#1A90D9;}
 .f_instagram{background:#FF5252;}
 .f_linkedin{background:#0e76a8;}
+.f_telegram{background:#0e76a8;}
+.f_telegram .fa {
+    font: normal normal normal 40px/0.999 FontAwesome;
+}
 /*END SOCIAL PROFILE CSS*/
 /* .footer_copyright {
 	border-top: 1px solid rgba(255,255,255,0.08);
